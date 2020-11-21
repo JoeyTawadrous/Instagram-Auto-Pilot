@@ -1,7 +1,7 @@
 # Instagram-Auto-Pilot
 Automate common Instagram activities such as following, unfollowing, commenting and reposting images from instagram accounts. 
 
-Link: https://getlearnable.com
+Link: https://www.darwinmail.app
 
 
 # Features
